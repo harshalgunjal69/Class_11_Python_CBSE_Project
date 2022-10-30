@@ -261,3 +261,17 @@ update_name_2 = input("\nEnter the name of the student you wanna delete = ")
 del mydict[update_name_2]
 print("\nData of", update_name_2, "has been deleted from the database.")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
